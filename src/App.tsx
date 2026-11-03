@@ -735,8 +735,8 @@ export const App: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
           <div className="flex items-center gap-2">
             <span className="font-semibold text-slate-400">VoxFlow AI</span>
-            <span>•</span>
-            <span>Vocal Labs Round 2 Individual Hackathon</span>
+            <span>•<AI VOICE ASSISTANT/span>
+            <span> Individual Hackathon</span>
           </div>
           <div>
             Real-Time Voice Assistant • Speak. Understand. Act.

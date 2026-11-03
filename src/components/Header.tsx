@@ -42,9 +42,6 @@ export const Header: React.FC<HeaderProps> = ({
               <h1 className="text-xl font-bold tracking-tight text-white flex items-center gap-1.5">
                 VoxFlow <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400 font-extrabold">AI</span>
               </h1>
-              <span className="px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 rounded-full">
-                Vocal Labs Round 2
-              </span>
             </div>
             <p className="text-xs text-slate-400 font-medium">
               Speak. Understand. Act. — Autonomous Voice Operations
